@@ -37,7 +37,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.hahafather007.flutterweather"
+        applicationId "com.expflow.reading"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
